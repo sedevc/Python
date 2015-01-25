@@ -114,9 +114,9 @@ set(['r', 'd', 'b', 'm', 'z', 'l'])
 
 
 
-dict = {'Namn':'Emil', 'Efternamn' : 'Magnusson'}
+dict = {'Namn':'Kalle', 'Efternamn' : 'Karlsson'}
 print dict
 
-dict['Personnummer'] = '8606302738'
+dict['Personnummer'] = '196505062759'
 
 print dict
