@@ -114,9 +114,8 @@ set(['r', 'd', 'b', 'm', 'z', 'l'])
 
 
 
+
 dict = {'Namn':'Kalle', 'Efternamn' : 'Karlsson'}
 print dict
 
 dict['Personnummer'] = '196505062759'
-
-print dict
